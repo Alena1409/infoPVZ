@@ -10,8 +10,8 @@ html, body {
 
 body {
     display: flex;
-    justify-content: center; /* Центрирование по горизонтали */
-    align-items: center; /* Центрирование по вертикали */
+    justify-content: center; 
+    align-items: center;
     background-color: #FFC200;
 }
 
